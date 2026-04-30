@@ -1,7 +1,6 @@
 
 ---
 
-### 6. LIME (Explainable AI) from Scratch
 
 
 # LIME from Scratch for Skin Cancer Detection
